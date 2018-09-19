@@ -12,9 +12,6 @@ public class Director {
         mBuilder.buildBody();
         mBuilder.buildHands();
         mBuilder.buildFooter();
-        System.out.println();
-        System.out.println();
-        System.out.println();
     }
 
 }
